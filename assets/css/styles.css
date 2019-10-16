@@ -1,0 +1,16 @@
+body {
+    margin: auto;
+    width: 800px;
+}
+
+article {
+    padding: 0 2em 0 2em;
+}
+
+main>ul>li {
+    list-style-type: none;
+}
+
+#footer-links {
+    list-style-type: none;
+}
