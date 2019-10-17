@@ -9,5 +9,5 @@ author: Tobias Erdle
 I wrote a small cookbook entry for the upcoming MVC API (JSR 371) about
 the implementation of a custom `LocaleResolver` in a MVC application:
 
-- [German](https://www.mvc-spec.org/learn/cookbook/custom_localeresolver_de.html)
-- [English](https://www.mvc-spec.org/learn/cookbook/custom_localeresolver_en.html)
+- [German](https://www.mvc-spec.org/learn/cookbook/custom_localeresolver_de.html){:target="_blank"}
+- [English](https://www.mvc-spec.org/learn/cookbook/custom_localeresolver_en.html){:target="_blank"}

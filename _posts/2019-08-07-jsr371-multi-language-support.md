@@ -9,5 +9,5 @@ author: Tobias Erdle
 I wrote a small cookbook entry for the upcoming MVC API (JSR 371) about
 the fundamentals of their I18n features:
 
-- [German](https://www.mvc-spec.org/learn/cookbook/multilang_de.html)
-- [English](https://www.mvc-spec.org/learn/cookbook/multilang_en.html)
+- [German](https://www.mvc-spec.org/learn/cookbook/multilang_de.html){:target="_blank"}
+- [English](https://www.mvc-spec.org/learn/cookbook/multilang_en.html){:target="_blank"}
