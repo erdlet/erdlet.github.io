@@ -14,3 +14,11 @@ main>ul>li {
 #footer-links {
     list-style-type: none;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+}
