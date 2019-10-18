@@ -7,7 +7,7 @@ author: Tobias Erdle
 ---
 
 I talked about the application development with the upcoming MVC API (JSR 371) and its
-reference implementation Eclipse Krazo at the [JUG Ingolstadt](https://www.jug-in.bayern).
+reference implementation Eclipse Krazo at the [JUG Ingolstadt](https://jug-in.bayern/).
 
 Below you can find the talk's slides (only german):
 
