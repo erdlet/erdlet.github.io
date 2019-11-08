@@ -9,8 +9,8 @@ author: Tobias Erdle
 I talked about the application development with the upcoming MVC API (JSR 371) and its
 reference implementation Eclipse Krazo at the [Lightweight JUG Munich](https://www.meetup.com/de-DE/Lightweight-Java-User-Group-Munchen/).
 
-Additional to my talk at the JUG Ingolstadt, you'll find new slides related to the security aspects
-of the MVC API and contains more actual information on the API etc.! So even you know the old slides, you'll 
+In addition to my talk at the JUG Ingolstadt, you'll find new slides related to the API's security aspects
+and more actual information on the current status! So even you know the old slides, you'll 
 learn something new!
 
 Below you can find the talk's slides (only german):
