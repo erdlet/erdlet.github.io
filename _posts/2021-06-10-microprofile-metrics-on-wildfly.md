@@ -26,6 +26,7 @@ XML:
 <extension module="org.wildfly.extension.microprofile.metrics-smallrye"/>
 ```
 
+But by doing this, the extension won't work, because it isn't registered as subsystem, which will be described in the next section.
 
 ## 2. Activation of the subsystem
 
@@ -82,6 +83,8 @@ Fetch application metrics in JSON:
 ```bash
 curl -H "Accept: application/json" --digest -u<yourUser>:<yourPassword> localhost:9990/metrics/application
 ```
+
+*Note:* For receiving application metrics someone must declare them in a deployed application. This won't be covered here.
 
 ## 4. Troubleshooting
 
