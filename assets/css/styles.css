@@ -23,11 +23,11 @@ main>ul>li {
 }
 
 article>ul>li {
-    margin-left: 1rem;
+    margin-left: 2rem;
 }
 
 article>ol>li {
-    margin-left: 1rem;
+    margin-left: 2rem;
 }
 
 #footer-links {
