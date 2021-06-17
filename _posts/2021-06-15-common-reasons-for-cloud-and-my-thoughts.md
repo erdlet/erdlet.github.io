@@ -2,7 +2,7 @@
 layout: post
 title:  "Common reasons for introducing cloud technologies and what I think about them"
 date:   2021-06-16 09:00:00 +0200
-categories: deployment,infrastructure,personal-thoughts
+categories: infrastructure 
 author: Tobias Erdle
 ---
 

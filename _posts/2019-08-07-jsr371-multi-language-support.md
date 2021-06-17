@@ -2,7 +2,7 @@
 layout: post
 title:  "MVC API: I18n fundamentals"
 date:   2019-08-07 10:00:00 +0200
-categories: java
+categories: jakarta-ee
 author: Tobias Erdle
 ---
 

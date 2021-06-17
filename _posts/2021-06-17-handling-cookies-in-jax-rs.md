@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting started with Cookies in JAX-RS"
 date:   2021-06-17 09:00:00 +0200
-categories: jakarta-ee,jax-rs,jakarta-restful-web-services
+categories: jakarta-ee
 author: Tobias Erdle
 ---
 

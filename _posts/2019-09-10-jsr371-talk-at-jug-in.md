@@ -2,7 +2,7 @@
 layout: post
 title:  "JSR 371: Talk about MVC API and Eclipse Krazo @ JUG Ingolstadt"
 date:   2019-09-10 10:00:00 +0200
-categories: java
+categories: jakarta-ee
 author: Tobias Erdle
 ---
 

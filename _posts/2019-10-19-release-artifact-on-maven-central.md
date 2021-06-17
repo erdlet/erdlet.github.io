@@ -2,7 +2,7 @@
 layout: post
 title:  "Release artifact on Maven Central"
 date:   2019-10-19 21:00:00 +0200
-categories: java
+categories: maven
 author: Tobias Erdle
 ---
 

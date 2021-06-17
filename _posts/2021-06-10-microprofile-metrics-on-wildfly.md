@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroProfile: Using MicroProfile Metrics in a WildFly standalone environment"
 date:   2021-06-10 09:00:00 +0200
-categories: jakarta-ee,wildfly,microprofile
+categories: jakarta-ee
 author: Tobias Erdle
 ---
 

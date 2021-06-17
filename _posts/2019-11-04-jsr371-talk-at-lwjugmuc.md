@@ -2,7 +2,7 @@
 layout: post
 title:  "MVC API: Talk about MVC API and Eclipse Krazo @ Lightweight JUG Munich"
 date:   2019-11-04 20:00:00 +0200
-categories: java
+categories: jakarta-ee
 author: Tobias Erdle
 ---
 

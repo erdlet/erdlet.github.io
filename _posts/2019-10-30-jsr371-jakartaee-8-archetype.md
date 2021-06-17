@@ -2,7 +2,7 @@
 layout: post
 title:  "MVC API: Archetype for Jakarta EE 8 based MVC projects"
 date:   2019-10-30 10:30:00 +0200
-categories: java
+categories: jakarta-ee
 author: Tobias Erdle
 ---
 

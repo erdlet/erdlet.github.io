@@ -2,7 +2,7 @@
 layout: post
 title:  "MVC API: Implement and use custom locale resolvers"
 date:   2019-08-23 10:00:00 +0200
-categories: java
+categories: jakarta-ee
 author: Tobias Erdle
 ---
 

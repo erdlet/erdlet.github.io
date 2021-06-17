@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting a global .gitignore file"
 date:   2020-01-07 09:00:00 +0200
-categories: git software-development vcs
+categories: git
 author: Tobias Erdle
 ---
 
