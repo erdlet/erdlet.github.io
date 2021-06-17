@@ -52,3 +52,10 @@ a:hover {
 a:visited {
     color: blue;
 }
+
+pre {
+    background-color: #f2f2f2;
+    padding:  .75rem;
+    white-space: pre-wrap;
+    border-radius: 5px;
+}
